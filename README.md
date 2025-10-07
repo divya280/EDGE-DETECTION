@@ -66,12 +66,18 @@ plt.axis('off')
 
 ### SOBEL EDGE DETECTOR
 
+<img width="308" height="409" alt="image" src="https://github.com/user-attachments/assets/a9bf3da0-778b-4c48-84a8-1a0338c8fb56" />
+
 
 
 ### LAPLACIAN EDGE DETECTOR
 
+<img width="308" height="409" alt="image" src="https://github.com/user-attachments/assets/44caa808-0f12-4196-b7ee-9fe6c6caddc9" />
+
 
 ### CANNY EDGE DETECTOR
+
+<img width="308" height="409" alt="image" src="https://github.com/user-attachments/assets/9bf3be1f-737a-44fd-962f-c428b07f2013" />
 
 
 ## Result:
